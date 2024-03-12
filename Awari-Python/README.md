@@ -3,7 +3,7 @@
 This directory contains a basic Python implementation providing access
 to the score database of the Awari game, discussed in the publication:
 
-John Romein, Henri E. Bal (2003):
+John W. Romein, Henri E. Bal (2003):
 "Solving the Game of Awari using Parallel Retrograde Analysis",
 IEEE Computer, Vol. 36, No. 10
 

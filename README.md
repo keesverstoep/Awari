@@ -2,7 +2,7 @@
 
 This project provides supplementary material to this original publication:
 
-John Romein, Henri E. Bal (2003):
+John W. Romein, Henri E. Bal (2003):
 "Solving the Game of Awari using Parallel Retrograde Analysis",
 IEEE Computer, Vol. 36, No. 10
 
@@ -33,8 +33,8 @@ The repository also includes sample code to retrieve the score of an
 arbitrary position.  Given the number of seeds, this involves computing
 the "Goedel number" of a position, which is an index in the corresponding
 database file.  Every entry in the database is a value between -48 and 48,
-representing the difference in number of stones the player to move score
+representing the difference in number of stones the player to move can score
 with optimal play.
 
 Access to the full database will be provided shortly, using a different
-platform suitable for sharing large datasets.
+platform suitable for sharing large datasets for research.
