@@ -36,5 +36,6 @@ database file.  Every entry in the database is a value between -48 and 48,
 representing the difference in number of stones the player to move can score
 with optimal play.
 
-Access to the full database will be provided shortly, using a different
-platform suitable for sharing large datasets for research.
+Access to the full Awari game score database is provided via the following link,
+which can also be used for reference in followup research:
+   <https://doi.org/10.48338/vu01-11wjke>
